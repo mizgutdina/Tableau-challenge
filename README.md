@@ -15,7 +15,7 @@ While in 2020, top 15 destination stations were similar in counts of total trips
 
 ## Dashboard 2: Gender and Age
 
-The breakdown of trip number and duration demonstrated that both females and males took longer trips in 2020, although total number of trips was smaller in 2020 than in 2019. Despite a significant increase in ridership for both sexes in 2020, overall, females utilized citi bikes much less than males. This is supported by multiple studies which have shown that females tend to depend on public transportation more and be over-represented in 'essential' professions. Source (https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0242476)
+The breakdown of trip number and duration demonstrated that both females and males took longer trips in 2020, although total number of trips was smaller in 2020 than in 2019. Despite a significant increase in ridership for both sexes in 2020, overall, females utilized citi bikes much less than males. This is supported by multiple studies which have shown that females tend to depend on public transportation more and be over-represented in 'essential' professions (Source: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0242476).
 
 Similar average age demographics utilizes the bikes for both genders - from mid to late thirties. It is possible that younger generations tend to own a bicycle, and older - rely on other means of transportation such as personal vehicles, trains and buses.
 
